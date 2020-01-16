@@ -8,4 +8,10 @@
 package recursion;
 
 public class FibonacciTermCalculator {
+    //n(k-1) + n(k-2)
+    // for recursion n((k-1) -1 ) + n((k-2) - 1)
+    public int nTHTermCalculator(int k) {
+        int response = 0;
+        return response;
+    }
 }
